@@ -20,8 +20,8 @@ I will learn to add boiler plate HTML lines of text, which is required for every
 html project to work.
 
 # IMPORTANT NOTES
-The recipes inside this test site are NOT works of my own, they've been sourced
-from the respective websites, links down below
+The recipes used on this test site are NOT works of my own, they've been sourced
+from these respective websites, links down below.
 
 https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
 
