@@ -1,0 +1,12 @@
+.headers {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(236, 192, 134);
+    background-color: rgb(141, 42, 42);
+}
+
+.lists {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:lightcoral;
+    background-color: rgb(245, 222, 179);
+    font-size: 25px;
+}
