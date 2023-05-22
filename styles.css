@@ -2,6 +2,17 @@
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(236, 192, 134);
     background-color: rgb(141, 42, 42);
+    text-align: center;
+}
+
+.recipe {
+    background-color: rgb(137, 172, 93);
+    color: lavender;
+}
+
+.description {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(201, 122, 32);
 }
 
 .lists {
@@ -9,4 +20,10 @@
     color:lightcoral;
     background-color: rgb(245, 222, 179);
     font-size: 25px;
+}
+
+.index {
+    color:aquamarine;
+    background-color: goldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
